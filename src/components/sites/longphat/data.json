@@ -1,0 +1,306 @@
+{
+ "tours": [
+  {
+   "section": "CÁC DỊCH VỤ NỔI BẬT",
+   "title": "TOUR MIỀN BẮC: HCM – HẠ LONG – NINH BÌNH – HÀ NỘI  3N2Đ",
+   "img": "1791529072-mb322.webp",
+   "hot": true,
+   "duration": "3 Ngày 2 Đêm",
+   "date": "31/10/2026",
+   "transport": "Bay khứ hồi",
+   "hotel": "3 sao",
+   "from_": "Hồ Chí Minh",
+   "price": "5.990.000",
+   "href": "tour/tour-mien-bac-hcm-ha-long-ninh-binh-ha-noi-3n2d"
+  },
+  {
+   "section": "CÁC DỊCH VỤ NỔI BẬT",
+   "title": "TOUR ĐÔNG BẮC: HCM – HÀ GIANG – SÔNG NHO QUẾ – CAO BẰNG – THÁC BẢN GIỐC – LẠNG SƠN",
+   "img": "1791535675-mb5422.webp",
+   "hot": true,
+   "duration": "5 Ngày 4 Đêm",
+   "date": "07/10/2026",
+   "transport": "Bay khứ hồi",
+   "hotel": "3 sao",
+   "from_": "Hồ Chí Minh",
+   "price": "8.990.000",
+   "href": "tour/tour-dong-bac-ha-giang-dong-van-song-nho-que-cao-bang-thac-ban-gioc-lang-son"
+  },
+  {
+   "section": "CÁC DỊCH VỤ NỔI BẬT",
+   "title": "TOUR MIỀN TRUNG: HCM - ĐÀ NẴNG - (BÀ NÀ) - HỘI AN - HUẾ - QUẢNG BÌNH",
+   "img": "1791535367-mt4322.webp",
+   "hot": true,
+   "duration": "4 Ngày 3 Đêm",
+   "date": "15/10/2026",
+   "transport": "Bay khứ hồi",
+   "hotel": "4 sao",
+   "from_": "Hồ Chí Minh",
+   "price": "6.590.000",
+   "href": "tour/tour-mien-trung-da-nang-hoi-an-ba-na-hills-hue-quang-binh"
+  },
+  {
+   "section": "CÁC DỊCH VỤ NỔI BẬT",
+   "title": "TOUR MIỀN BẮC: HCM – HÀ NỘI – HẠ LONG – NINH BÌNH – SAPA",
+   "img": "1791537516-mb542222.webp",
+   "hot": true,
+   "duration": "5 Ngày 4 Đêm",
+   "date": "21/10/2026",
+   "transport": "Bay khứ hồi",
+   "hotel": "3 sao",
+   "from_": "Hồ Chí Minh",
+   "price": "8.490.000",
+   "href": "tour/tour-mien-bac-ha-noi-sapa-lao-cai-ninh-binh-ha-long"
+  },
+  {
+   "section": "TOUR TRONG NƯỚC",
+   "title": "TOUR NINH CHỮ– VĨNH HY 3N2Đ",
+   "img": "1791794797-ninhchu32.webp",
+   "hot": false,
+   "duration": "3 Ngày 2 Đêm",
+   "date": "02/10/2026",
+   "transport": "Bay khứ hồi",
+   "hotel": "3 sao",
+   "from_": "Hồ Chí Minh (Thứ 6 hàng tuần)",
+   "price": "3.150.000",
+   "href": "tour/tour-ninh-chu-vinh-hy-3n2d"
+  },
+  {
+   "section": "TOUR TRONG NƯỚC",
+   "title": "TOUR NINH CHỮ 2N1Đ: NINH CHỮ - QUEEN FARM - HANG RÁI - THÁP POKLONG GARAI - VỊNH VĨNH HY",
+   "img": "1791794082-ninhchu21.webp",
+   "hot": false,
+   "duration": "2 ngày 1 đêm",
+   "date": "03/10/2026",
+   "transport": "Bay khứ hồi",
+   "hotel": "3 sao",
+   "from_": "Hồ Chí Minh (Thứ 7 hàng tuần)",
+   "price": "2.350.000",
+   "href": "tour/tour-ninh-chu-2n1d-ninh-chu-queen-farm-hang-rai-thap-poklong-garai-vinh-vinh-hy"
+  },
+  {
+   "section": "TOUR TRONG NƯỚC",
+   "title": "TOUR MIỀN TÂY (1 ngày): MỸ THO – BẾN TRE 1 NGÀY",
+   "img": "1791539732-mt1.webp",
+   "hot": false,
+   "duration": "1 ngày",
+   "date": "01/10/2026",
+   "transport": "Bay khứ hồi",
+   "hotel": "3 sao",
+   "from_": "Hồ Chí Minh (Khởi hành hàng ngày)",
+   "price": "499.000",
+   "href": "tour/tour-mien-tay-1-ngay-my-tho-ben-tre-1-ngay"
+  },
+  {
+   "section": "TOUR TRONG NƯỚC",
+   "title": "TOUR MIỀN TÂY (2N1Đ): MỸ THO – BẾN TRE – CẦN THƠ  – KDL MỸ KHÁNH",
+   "img": "1791538747-mt21.webp",
+   "hot": false,
+   "duration": "2 ngày 1 đêm",
+   "date": "01/10/2026",
+   "transport": "Bay khứ hồi",
+   "hotel": "3 sao",
+   "from_": "Hồ Chí Minh (Khởi hành hàng ngày)",
+   "price": "1.599.000",
+   "href": "tour/tour-mien-tay-2n1d-my-tho-ben-tre-can-tho-kdl-my-khanh"
+  },
+  {
+   "section": "TOUR TRONG NƯỚC",
+   "title": "TOUR MIỀN TÂY (3N2Đ): MỸ THO – BẾN TRE – CHÂU ĐỐC – RỪNG TRÀM TRÀ SƯ – CẦN THƠ – KDL MỸ KHÁNH",
+   "img": "1791534876-mt32.webp",
+   "hot": false,
+   "duration": "3 Ngày 2 Đêm",
+   "date": "01/10/2026",
+   "transport": "Bay khứ hồi",
+   "hotel": "3 sao",
+   "from_": "Hồ Chí Minh (Thứ 2-5-7 hàng tuần)",
+   "price": "2.890.000",
+   "href": "tour/tour-mien-tay-my-tho-ben-tre-chau-doc-rung-tram-tra-su-can-tho-kdl-my-khanh"
+  },
+  {
+   "section": "TOUR TRONG NƯỚC",
+   "title": "TOUR TRÀ VINH: 1 NGÀY CHẠM VÀO HỒN KHMER",
+   "img": "1791537824-tv1.webp",
+   "hot": false,
+   "duration": "1 ngày",
+   "date": "01/10/2026",
+   "transport": "Bay khứ hồi",
+   "hotel": "3 sao",
+   "from_": "Hồ Chí Minh (Khởi hành hàng ngày)",
+   "price": "950.000",
+   "href": "tour/tour-tra-vinh-1-ngay-cham-vao-hon-khmer"
+  },
+  {
+   "section": "TOUR TRONG NƯỚC",
+   "title": "TOUR QUY NHƠN - PHÚ YÊN: HÒN KHÔ – LẶN NGẮM SAN HÔ – KỲ CO – EO GIÓ – CHÙA THIÊN HƯNG - GÀNH ĐÁ DĨA – NHÀ THỜ MẰNG LĂNG – MŨI ĐIỆN",
+   "img": "1791521592-qn.webp",
+   "hot": false,
+   "duration": "3 Ngày 3 Đêm",
+   "date": "01/10/2026",
+   "transport": "Bay khứ hồi",
+   "hotel": "3 sao",
+   "from_": "Hồ Chí Minh (Thứ 5 hàng tuần)",
+   "price": "3.290.000",
+   "href": "tour/tour-quy-nhon-phu-yen-hon-kho-lan-ngam-san-ho-ky-co-eo-gio-chua-thien-hung-ganh-da-dia-nha-tho-mang-lang-mui-dien"
+  },
+  {
+   "section": "TOUR TRONG NƯỚC",
+   "title": "TOUR PHAN THIẾT: BIKINI BEECH –QUEEN FARM – TẮM BÙN KHOÁNG - JEEP TOUR BÀU TRẮNG HANNA BEACH – BUFFET HẢI SẢN",
+   "img": "1791528884-ot2.webp",
+   "hot": false,
+   "duration": "2 ngày 1 đêm",
+   "date": "03/10/2026",
+   "transport": "Bay khứ hồi",
+   "hotel": "3 sao",
+   "from_": "Hồ Chí Minh (Thứ 7 hàng tuần)",
+   "price": "1.950.000",
+   "href": "tour/tour-phan-thiet-bikini-beech-queen-farm-tam-bun-khoang-jeep-tour-bau-trang-hanna-beach-buffet-hai-san"
+  },
+  {
+   "section": "TOUR NƯỚC NGOÀI",
+   "title": "TOUR NHẬT BẢN: KHÁM PHÁ CỔ TRẤN VÀ DI SẢN UNESCO SHIRAKAWAGO",
+   "img": "1792661170-nb26n5.webp",
+   "hot": false,
+   "duration": "6 ngày 5 đêm",
+   "date": "23/10/2026",
+   "transport": "Bay khứ hồi",
+   "hotel": "4 sao",
+   "from_": "Hồ Chí Minh",
+   "price": "35.900.000",
+   "href": "tour/tour-nhat-ban-kham-pha-co-tran-va-di-san-unesco-shirakawago"
+  },
+  {
+   "section": "TOUR NƯỚC NGOÀI",
+   "title": "TOUR NHẬT BẢN: LÃNG MẠN SẮC THU NHẬT BẢN – CUNG ĐƯỜNG VÀNG 6 NGÀY 5 ĐÊM",
+   "img": "1792660194-nb6n5.webp",
+   "hot": false,
+   "duration": "6 ngày 5 đêm",
+   "date": "27/10/2026",
+   "transport": "Bay khứ hồi",
+   "hotel": "4 sao",
+   "from_": "Hồ Chí Minh",
+   "price": "38.900.000",
+   "href": "tour/tour-nhat-ban-lang-man-sac-thu-nhat-ban-cung-duong-vang-6-ngay-5-dem"
+  },
+  {
+   "section": "TOUR NƯỚC NGOÀI",
+   "title": "TOUR HÀN QUỐC 5 NGÀY 4 ĐÊM (2)",
+   "img": "1792659365-hq25n4.webp",
+   "hot": false,
+   "duration": "5 Ngày 4 Đêm",
+   "date": "22/10/2026",
+   "transport": "Bay khứ hồi",
+   "hotel": "4 sao",
+   "from_": "Hồ Chí Minh",
+   "price": "19.990.000",
+   "href": "tour/tour-han-quoc-5-ngay-4-dem-2"
+  },
+  {
+   "section": "TOUR NƯỚC NGOÀI",
+   "title": "TOUR HÀN QUỐC 5 NGÀY 4 ĐÊM",
+   "img": "1792656352-hq5n4.webp",
+   "hot": false,
+   "duration": "5 Ngày 4 Đêm",
+   "date": "30/10/2026",
+   "transport": "Bay khứ hồi",
+   "hotel": "4 sao",
+   "from_": "Hồ Chí Minh",
+   "price": "16.990.000",
+   "href": "tour/tour-han-quoc-5-ngay-4-dem"
+  },
+  {
+   "section": "TOUR NƯỚC NGOÀI",
+   "title": "TOUR HÀN QUỐC 4 NGÀY 4 ĐÊM",
+   "img": "1792641794-hq4n4.webp",
+   "hot": false,
+   "duration": "4 ngày 4 đêm",
+   "date": "22/10/2026",
+   "transport": "Bay khứ hồi",
+   "hotel": "4 sao",
+   "from_": "Hồ Chí Minh",
+   "price": "18.990.000",
+   "href": "tour/tour-han-quoc-4-ngay-4-dem"
+  },
+  {
+   "section": "TOUR NƯỚC NGOÀI",
+   "title": "TOUR BALI:  HÒN ĐẢO CỦA CÁC VỊ THẦN",
+   "img": "1792135470-bali43.webp",
+   "hot": false,
+   "duration": "4 Ngày 3 Đêm",
+   "date": "22/10/2026",
+   "transport": "Bay khứ hồi",
+   "hotel": "4 sao",
+   "from_": "Hồ Chí Minh",
+   "price": "11.990.000",
+   "href": "tour/tour-bali-hon-dao-cua-cac-vi-than"
+  },
+  {
+   "section": "TOUR NƯỚC NGOÀI",
+   "title": "TOUR SINGAPORE - MALAYSIA: 1 HÀNH TRÌNH 2 QUỐC GIA",
+   "img": "1792124443-sinma54.webp",
+   "hot": false,
+   "duration": "5 Ngày 4 Đêm",
+   "date": "21/10/2026",
+   "transport": "Bay khứ hồi",
+   "hotel": "3 sao",
+   "from_": "Hồ Chí Minh",
+   "price": "11.990.000",
+   "href": "tour/tour-singapore-malaysia-1-hanh-trinh-2-quoc-gia"
+  },
+  {
+   "section": "TOUR NƯỚC NGOÀI",
+   "title": "TOUR SINGAPORE - MALAYSIA - INDONESIA: 1 HÀNH TÌNH 3 QUỐC GIA",
+   "img": "1792121108-sininma65.webp",
+   "hot": false,
+   "duration": "6 ngày 5 đêm",
+   "date": "22/10/2026",
+   "transport": "Bay khứ hồi",
+   "hotel": "4 sao",
+   "from_": "Hồ Chí Minh",
+   "price": "13.990.000",
+   "href": "tour/tour-singapore-malaysia-indonesia-1-hanh-tinh-3-quoc-gia"
+  }
+ ],
+ "news": [
+  {
+   "img": "1792672004-tour-20-10.webp",
+   "title": "Tour Nổi Bật Long Phát – Những Điểm Check-in Miền Trung Không Nên Bỏ Lỡ",
+   "href": "blog/tour-noi-bat-long-phat-nhung-diem-checkin-mien-trung-khong-nen-bo-lo"
+  },
+  {
+   "img": "1792671870-seoul.webp",
+   "title": "Đã Đặt Chân Đến Seoul Cùng Người Yêu Mà Không Biết Những Nơi Check-in Sau Đây Thì Uổng Phí Lắm",
+   "href": "blog/da-dat-chan-den-seoul-cung-nguoi-yeu-ma-khong-biet-nhung-noi-checkin-sau-day-thi-uong-phi-lam"
+  },
+  {
+   "img": "1792671656-ti-sao-nn-t-tour-sm.webp",
+   "title": "Vì Sao Nên Đặt Tour Du Lịch Sớm Dịp Lễ?",
+   "href": "blog/vi-sao-nen-dat-tour-du-lich-som-dip-le"
+  },
+  {
+   "img": "1791387564-6.webp",
+   "title": "DU LỊCH CẦN CHUẨN BỊ GÌ? CHECKLIST ĐẦY ĐỦ 2026",
+   "href": "blog/du-lich-can-chuan-bi-gi-checklist-day-du-2026"
+  },
+  {
+   "img": "1791262685-banner.webp",
+   "title": "Du lịch Đà Lạt - Trải nghiệm thành phố ngàn hoa cùng Long Phát",
+   "href": "blog/du-lich-da-lat-trai-nghiem-thanh-pho-ngan-hoa-cung-long-phat"
+  },
+  {
+   "img": "1790689463-1.webp",
+   "title": "Xử lý thủ tục Visa ở đâu uy tín mà nhanh gọn? Mách bạn địa điểm này",
+   "href": "blog/xu-ly-thu-tuc-visa-o-dau-uy-tin-ma-nhanh-gon-mach-ban-dia-diem-nay"
+  },
+  {
+   "img": "1790687495-du-lch-long-pht-bi-1-nh-ba-facebook.webp",
+   "title": "TOP 3 Công ty du lịch uy tín và chất lượng tại TP.HCM: Top 1 Du Lịch Long Phát",
+   "href": "blog/top-3-cong-ty-du-lich-uy-tin-va-chat-luong-tai-tphcm-top-1-du-lich-long-phat"
+  },
+  {
+   "img": "1790563713-gii-thiu-tng-th.webp",
+   "title": "CÔNG TY TNHH TM DV DU LỊCH LONG PHÁT là ai? Đơn vị này có uy tín không?",
+   "href": "blog/cong-ty-tnhh-tm-dv-du-lich-long-phat-la-ai-don-vi-nay-co-uy-tin-khong"
+  }
+ ]
+}
