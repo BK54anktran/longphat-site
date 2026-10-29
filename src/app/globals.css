@@ -128,3 +128,20 @@
     @apply font-sans;
   }
 }
+/* Nội dung HTML lấy từ trang gốc (đã làm sạch khi nhập) */
+.rich { font-size: 15px; line-height: 1.75; color: #16213a; overflow-wrap: anywhere; }
+.rich > * + * { margin-top: 0.75rem; }
+.rich h1, .rich h2, .rich h3, .rich h4 { font-weight: 800; line-height: 1.35; letter-spacing: -0.01em; margin-top: 1.5rem; }
+.rich h2 { font-size: 1.2rem; color: #d85f0b; }
+.rich h3 { font-size: 1.1rem; }
+.rich ul { list-style: disc; padding-left: 1.4rem; }
+.rich ol { list-style: decimal; padding-left: 1.4rem; }
+.rich li + li { margin-top: 0.25rem; }
+.rich li > p { margin: 0; }
+.rich a { color: #f2751b; text-decoration: underline; }
+.rich img { max-width: 100%; height: auto; border-radius: 12px; margin-inline: auto; }
+.rich blockquote { border-left: 4px solid #f2751b; padding-left: 1rem; color: #5b6679; }
+.rich table { display: block; max-width: 100%; overflow-x: auto; border-collapse: collapse; font-size: 14px; }
+.rich td, .rich th { border: 1px solid #e5e8ef; padding: 0.5rem 0.75rem; vertical-align: top; min-width: 110px; overflow-wrap: normal; }
+.rich tr:first-child td, .rich th { background: #fff4ea; }
+.rich td p { margin: 0; }
